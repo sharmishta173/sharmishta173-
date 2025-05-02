@@ -1,36 +1,37 @@
 👋 Hello, I'm Sharmishta!
+
 2nd Year Computer Science Engineering Student
 🎓 Pursuing B.Tech at Dayananda Sagar Academy of Technology and Management
 🌐 Passionate About: Software Development, AI, and Data Science
 🚀 Mission: Building innovative tech solutions to solve real-world problems.
 
 🔥 Current Projects
-1. SafeVerse
-🛡️ AI-powered anti-cyberbullying platform
+1. SafeVerse.
+    🛡️ AI-powered anti-cyberbullying platform
 
-Uses NLP + ML to detect toxic messages in real-time.
+     Uses NLP + ML to detect toxic messages in real-time.
 
-Promotes respectful digital communication.
+     Promotes respectful digital communication.
 
-Tech Stack: Python, TensorFlow, Flask.
+     Tech Stack: Python, TensorFlow, Flask.
 
 2. MediTruth
-🏥 AI-driven medical misinformation detector
+    🏥 AI-driven medical misinformation detector
 
-Verifies accuracy of health-related claims.
+     Verifies accuracy of health-related claims.
 
-Combats fake news about treatments/vaccines.
+     Combats fake news about treatments/vaccines.
 
-Tech Stack: NLP, BERT, Django.
+     Tech Stack: NLP, BERT, Django.
 
 3. ReCalm
-🧠 Smart mental wellness assistant
+     🧠 Smart mental wellness assistant
 
-AI-based mood detection + mindfulness exercises.
+     AI-based mood detection + mindfulness exercises.
 
-Helps manage stress/anxiety.
+     Helps manage stress/anxiety.
 
-Tech Stack: React, Node.js, Emotion AI.
+     Tech Stack: React, Node.js, Emotion AI.
 
 🛠️ Tech Stack
 Languages:
