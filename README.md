@@ -2,7 +2,9 @@
 
 2nd Year Computer Science Engineering Student
 🎓 Pursuing B.Tech at Dayananda Sagar Academy of Technology and Management
+
 🌐 Passionate About: Software Development, AI, and Data Science
+
 🚀 Mission: Building innovative tech solutions to solve real-world problems.
 
 🔥 Current Projects
